@@ -1,6 +1,6 @@
 {
   "name": "dom2image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "src/dom2image.js",
   "authors": [
@@ -8,7 +8,6 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/tw-liuzhangren/dom2image.git",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
