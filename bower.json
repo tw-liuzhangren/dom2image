@@ -2,7 +2,7 @@
   "name": "dom2image",
   "version": "1.0.1",
   "description": "",
-  "main": "src/dom2image.js",
+  "main": "dist/dom2image.js",
   "authors": [
     "tw-liuzhangren <zhangren.liu@thoughtworks.com>"
   ],
