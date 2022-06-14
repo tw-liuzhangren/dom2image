@@ -1,6 +1,6 @@
 {
-  "name": "dom2image",
-  "version": "1.0.4",
+  "name": "dom2image-for-bower",
+  "version": "1.0.5",
   "main": "dist/dom2image.js",
   "repository": "https://github.com/tw-liuzhangren/dom2image.git",
   "author": "tw-liuzhangren <zhangren.liu@thoughtworks.com>",
