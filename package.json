@@ -5,6 +5,7 @@
   "repository": "https://github.com/tw-liuzhangren/dom2image.git",
   "author": "tw-liuzhangren <zhangren.liu@thoughtworks.com>",
   "license": "MIT",
+  "private": "true",
   "dependencies": {
     "bower": "1.8.14"
   }
